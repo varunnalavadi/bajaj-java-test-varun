@@ -6,6 +6,8 @@
 
 This project is part of the \*\*Bajaj Finserv Health hiring challenge\*\* for PES University.  
 
+
+
 It performs the following steps automatically when the Spring Boot app starts:
 
 
@@ -40,13 +42,9 @@ It performs the following steps automatically when the Spring Boot app starts:
 
 \## How to Run
 
-```bash
-
-mvn clean package
+mvn clean package  
 
 java -jar target/bajaj-java-test-varun-1.0.0.jar
-
-```
 
 
 
@@ -56,15 +54,11 @@ java -jar target/bajaj-java-test-varun-1.0.0.jar
 
 \## Example Output
 
-```
+🚀 Starting Bajaj Finserv Health Test for Varun...  
 
-🚀 Starting Bajaj Finserv Health Test for Varun...
-
-✅ Webhook Response: {webhook=https://bfhldevapigw.healthrx.co.in/hiring/testWebhook/JAVA, accessToken=eyJhbGciOi...}
+✅ Webhook Response: {webhook=https://bfhldevapigw.healthrx.co.in/hiring/testWebhook/JAVA, accessToken=eyJhbGciOi...}  
 
 ✅ Final Response: {success=true, message=Webhook processed successfully}
-
-```
 
 
 
@@ -74,9 +68,9 @@ java -jar target/bajaj-java-test-varun-1.0.0.jar
 
 \## Submission Details
 
-\- \*\*GitHub Repository:\*\* \[https://github.com/YOUR\_USERNAME/bajaj-java-test-varun.git]  
+\- \*\*GitHub Repository:\*\* \[https://github.com/varunnalavadi/bajaj-java-test-varun.git](https://github.com/varunnalavadi/bajaj-java-test-varun.git)  
 
-\- \*\*Downloadable JAR:\*\* \[https://github.com/YOUR\_USERNAME/bajaj-java-test-varun/raw/main/bajaj-java-test-varun-1.0.0.jar]
+\- \*\*Downloadable JAR:\*\* \[https://github.com/varunnalavadi/bajaj-java-test-varun/releases/download/v1.0.0/bajaj-java-test-varun-1.0.0.jar](https://github.com/varunnalavadi/bajaj-java-test-varun/releases/download/v1.0.0/bajaj-java-test-varun-1.0.0.jar)
 
 
 
